@@ -1,1 +1,4 @@
 
+npm create vite@latest ct-personaldos-app -- --template react-ts
+cd ct-personaldos-app
+npm install
